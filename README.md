@@ -1,11 +1,11 @@
-📊 Project Title – Predictive Modeling with Machine Learning
-📌 Overview
+## 📊 Project Title – Predictive Modeling with Machine Learning
+## 📌 Overview
 
 This project focuses on building and evaluating machine learning models to solve a real-world dataset problem. The goal is to apply data preprocessing, exploratory analysis, feature engineering, and multiple ML models to achieve accurate predictions.
 
 The notebook walks through each step in detail, making it both a learning resource and a practical solution.
 
-🧱 Features
+##🧱 Features
 
 End-to-end ML workflow
 
@@ -21,7 +21,7 @@ Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 
 Insights and conclusion
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages: Python
 
@@ -35,13 +35,13 @@ Machine Learning: Scikit-learn
 
 Notebook: Jupyter
 
-📂 Project Structure
+## 📂 Project Structure
 ├── notebook.ipynb      # Jupyter notebook with full analysis
 ├── README.md           # Project documentation
 ├── data/               # (Optional) Dataset files
 └── results/            # Model outputs & plots
 
-🚀 How to Run
+## 🚀 How to Run
 
 Clone the repository:
 
@@ -61,13 +61,13 @@ jupyter notebook
 
 Open the notebook and run cells sequentially.
 
-📈 Results
+## 📈 Results
 
 Best performing model: (fill this with your top model, e.g., RandomForestClassifier with 89% accuracy)
 
 Key insight: (add main finding, e.g., Feature X had the highest impact on predictions)
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Hyperparameter tuning with GridSearch/RandomSearch
 
@@ -77,7 +77,7 @@ Adding more advanced ML/DL models
 
 Interactive dashboard with Streamlit
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Nagavengadeshwaran S
 
